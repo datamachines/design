@@ -40,5 +40,6 @@ Code, tools, references, and inspiration for user experience design.
 
 ## Inspiration
 * [The Cool Hunter](http://www.thecoolhunter.net/)
+* [XKCD](http://xkcd.com/)
 * [Deviant Art](http://www.deviantart.com/)
 
