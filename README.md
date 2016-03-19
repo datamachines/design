@@ -1,7 +1,19 @@
 # design
 Code tools and references for user experience design.
 
+## Data Visualization
 
+## Libraries
+* [D3](https://d3js.org/)
+* [ggplot2](http://ggplot2.org/)
+* [matplotlib](http://matplotlib.org/)
+* [Chart.js](http://www.chartjs.org/)
+* [Leaflet](http://leafletjs.com/)
+
+## Tools
+* [Tableau](http://www.tableau.com/)
+* [Gephi](https://gephi.org/)
+* [Raw](http://raw.densitydesign.org/)
 
 ## Reference
 
@@ -17,3 +29,4 @@ Code tools and references for user experience design.
 
 ## Inspiration
 * [The Cool Hunter](http://www.thecoolhunter.net/)
+* [Deviant Art](http://www.deviantart.com/)
