@@ -29,6 +29,9 @@ Code, tools, references, and inspiration for user experience design.
 * [Flat Icon](http://www.flaticon.com/)
 * [Glyph Icons](http://glyphicons.com/)
 
+## Font
+* [So you need a typeface](https://inspirationlab.files.wordpress.com/2010/04/infographiclarge_v2.png)
+
 ## Blogs
 * [/r/Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful)
 * [Anna Vital](http://anna.vc/)
