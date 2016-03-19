@@ -22,9 +22,10 @@ Code, tools, references, and inspiration for user experience design.
 * [Glyph Icons](http://glyphicons.com/)
 
 ## Blogs
-* [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful)
+* [/r/Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful)
 * [Anna Vital](http://anna.vc/)
 * [Tufte](http://www.edwardtufte.com/tufte/)
+* [/r/Design](https://www.reddit.com/r/design)
 
 ## Inspiration
 * [The Cool Hunter](http://www.thecoolhunter.net/)
