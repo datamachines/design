@@ -1,6 +1,6 @@
 Code, tools, references, and inspiration for user experience design.
 
-## Data Visualization
+# Data Visualization
 
 ## Libraries
 * [D3](https://d3js.org/)
@@ -8,13 +8,21 @@ Code, tools, references, and inspiration for user experience design.
 * [matplotlib](http://matplotlib.org/)
 * [Chart.js](http://www.chartjs.org/)
 * [Leaflet](http://leafletjs.com/)
+* [MayaVi](http://mayavi.sourceforge.net/)
 
 ## Tools
 * [Tableau](http://www.tableau.com/)
 * [Gephi](https://gephi.org/)
 * [Raw](http://raw.densitydesign.org/)
 
-## Reference
+# Graphics Tools
+* [GIMP](https://www.gimp.org/)
+* [Inkscape](https://inkscape.org/)
+* [Illustrator](http://www.adobe.com/products/illustrator.html)
+* [Photoshop](http://www.adobe.com/products/photoshop.html)
+* [Povray](http://www.povray.org/)
+
+# Reference
 
 ## Icons
 * [The Noun Project](https://thenounproject.com/)
@@ -30,3 +38,4 @@ Code, tools, references, and inspiration for user experience design.
 ## Inspiration
 * [The Cool Hunter](http://www.thecoolhunter.net/)
 * [Deviant Art](http://www.deviantart.com/)
+
