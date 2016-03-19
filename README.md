@@ -32,6 +32,8 @@ Code, tools, references, and inspiration for user experience design.
 
 ## Mockup Tools
 * [Sketch](http://www.sketchapp.com/)
+* [Fireworks](http://www.adobe.com/products/fireworks.html)
+* [Omnigraffle](https://www.omnigroup.com/omnigraffle)
 
 # Reference
 
