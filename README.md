@@ -7,8 +7,14 @@ Code, tools, references, and inspiration for user experience design.
 * [ggplot2](http://ggplot2.org/)
 * [matplotlib](http://matplotlib.org/)
 * [Chart.js](http://www.chartjs.org/)
-* [Leaflet](http://leafletjs.com/)
+
+### 3D
 * [MayaVi](http://mayavi.sourceforge.net/)
+
+### Spatial
+* [Leaflet](http://leafletjs.com/)
+* [Cesium](https://cesiumjs.org/)
+
 
 ## Tools
 * [Tableau](http://www.tableau.com/)
