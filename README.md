@@ -1,4 +1,4 @@
-Code tools and references for user experience design.
+Code, tools, references, and inspiration for user experience design.
 
 ## Data Visualization
 
