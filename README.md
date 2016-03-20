@@ -50,8 +50,6 @@ Code, tools, references, and inspiration for user experience design.
 * [Anna Vital](http://anna.vc/)
 * [Tufte](http://www.edwardtufte.com/tufte/)
 * [/r/Design](https://www.reddit.com/r/design)
-
-## Inspiration
 * [The Cool Hunter](http://www.thecoolhunter.net/)
 * [XKCD](http://xkcd.com/)
 * [Deviant Art](http://www.deviantart.com/)
