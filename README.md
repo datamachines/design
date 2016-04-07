@@ -7,6 +7,7 @@ Code, tools, references, and inspiration for user experience design.
 * [ggplot2](http://ggplot2.org/)
 * [matplotlib](http://matplotlib.org/)
 * [Chart.js](http://www.chartjs.org/)
+* [Envision.js](http://humblesoftware.com/envision/)
 
 ### 3D
 * [MayaVi](http://mayavi.sourceforge.net/)
@@ -14,12 +15,15 @@ Code, tools, references, and inspiration for user experience design.
 ### Spatial
 * [Leaflet](http://leafletjs.com/)
 * [Cesium](https://cesiumjs.org/)
+* [GMaps](https://developers.google.com/maps/)
+* [d3.geo](https://github.com/mbostock/d3/wiki/Geo)
 
 
 ## Tools
 * [Tableau](http://www.tableau.com/)
 * [Gephi](https://gephi.org/)
 * [Raw](http://raw.densitydesign.org/)
+* [Timeline.js](http://timeline.knightlab.com/)
 
 # Tools
 
@@ -47,6 +51,7 @@ Code, tools, references, and inspiration for user experience design.
 
 ## Blogs
 * [/r/Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful)
+* [survey.timeviz.net](http://survey.timeviz.net/)
 * [Anna Vital](http://anna.vc/)
 * [Tufte](http://www.edwardtufte.com/tufte/)
 * [/r/Design](https://www.reddit.com/r/design)
