@@ -17,7 +17,7 @@ Code, tools, references, and inspiration for user experience design.
 * [Cesium](https://cesiumjs.org/)
 * [GMaps](https://developers.google.com/maps/)
 * [d3.geo](https://github.com/mbostock/d3/wiki/Geo)
-
+* [DataMaps](http://datamaps.github.io/)
 
 ## Tools
 * [Tableau](http://www.tableau.com/)
