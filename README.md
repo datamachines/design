@@ -8,6 +8,7 @@ Code, tools, references, and inspiration for user experience design.
 * [matplotlib](http://matplotlib.org/)
 * [Chart.js](http://www.chartjs.org/)
 * [Envision.js](http://humblesoftware.com/envision/)
+* [Sigma.js](http://sigmajs.org/)
 
 ### 3D
 * [MayaVi](http://mayavi.sourceforge.net/)
