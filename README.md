@@ -20,6 +20,7 @@ Code, tools, references, and inspiration for user experience design.
 * [GMaps](https://developers.google.com/maps/)
 * [d3.geo](https://github.com/mbostock/d3/wiki/Geo)
 * [DataMaps](http://datamaps.github.io/)
+* [ColorBrewer2](http://colorbrewer2.org/)
 
 ## Tools
 * [Tableau](http://www.tableau.com/)
