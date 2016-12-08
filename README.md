@@ -44,6 +44,8 @@ Code, tools, references, and inspiration for user experience design.
 
 # Reference
 
+* [Periodic table of HTML5 Elements](http://zqsmm.qiniucdn.com/data/20110511083224/index.html)  
+
 ## Icons
 * [The Noun Project](https://thenounproject.com/)
 * [Flat Icon](http://www.flaticon.com/)
