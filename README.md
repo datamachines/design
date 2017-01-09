@@ -10,6 +10,7 @@ Code, tools, references, and inspiration for user experience design.
 * [Envision.js](http://humblesoftware.com/envision/)
 * [Sigma.js](http://sigmajs.org/)
 * [Vincent - Python to D3 Vega](http://vincent.readthedocs.io/en/latest/)
+* [nvd3](http://nvd3.org/)
 
 ### 3D
 * [MayaVi](http://mayavi.sourceforge.net/)
